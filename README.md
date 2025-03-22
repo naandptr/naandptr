@@ -7,7 +7,7 @@ I'm Nanda, an insatiably curious comp sci student at University of Jambi who tur
 🛠 Currently building: [Check out my latest repo!](https://github.com/naandptr?tab=repositories&sort=stargazers)</br>
 🚀 On a mission to master: Laravel</br>
 🎯 Fascinated by: Cybersecurity</br>
-📬 Summon me via: [Instagram](https://www.instagram.com/rncsseven/)</br>
+📬 Summon me via: [Instagram](https://www.instagram.com/rncsseven/) and [LinkedIn](https://www.linkedin.com/in/naandptr/)</br>
 🦄 Random fact: "I talk to my code more than I talk to people."</br>
 
 # 💻 Tech Stack:
