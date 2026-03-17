@@ -19,8 +19,11 @@ I'm Nanda, an insatiably curious comp sci student at University of Jambi who tur
 # ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=naandptr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🏆 GitHub Profile Trophy:
+![](https://github-profile-trophy.vercel.app/?username=naandptr&theme=dark&no-frame=true&row=1)
+
+# 🤖 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naandptr&layout=compact&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naandptr&icon=0&color=0)](https://visitcount.itsvg.in)
